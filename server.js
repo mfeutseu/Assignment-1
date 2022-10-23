@@ -1,16 +1,3 @@
-// import debug from 'debug';
-// debug('comp-229');
-// import http from 'http';
-
-// import app from './app/app.js';
-
-// const PORT = process.env.PORT || 3000;
-// app.set('port', PORT);
-
-// const server = http.createServer(app);
-
-// server.listen(PORT);
-
 
 import debug from 'debug';
 debug('comp-229');

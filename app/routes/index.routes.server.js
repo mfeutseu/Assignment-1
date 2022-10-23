@@ -14,8 +14,3 @@ router.get('/services', displayServicesPage);
 router.get('/contact', displayContactPage);
 
 export default router;
-
-
-// app.use('/json', helloJson);
-// app.use('/html', helloHtml);
-// app.use('/', helloPlein);
